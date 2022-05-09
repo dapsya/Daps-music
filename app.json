@@ -2,7 +2,7 @@
     "name": "HIROSHI-MUSIC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/UserbotMaps/Anonim-Music",
+    "repository": "https://github.com/Hiroshi169/Hiroshi-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
