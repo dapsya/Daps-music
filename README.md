@@ -1,7 +1,7 @@
-#### MUSIC HIROSHI 🎼
+#### KY MUSIC 🎼
 #### **Kalo Deploy Gausah Banyak Bacot Ngentot Tinggal Deploy Gw Entot Juga Lu Lama Lama**
 <p align="center">
-   <img src="https://telegra.ph/file/47efd414072b792a2617f.jpg">
+   <img src="https://telegra.ph/file/a09cb353b022e06643267.jpg">
 </p>
 
 ### DEPLOY TO HEROKU TOD!
