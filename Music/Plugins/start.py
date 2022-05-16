@@ -25,7 +25,7 @@ from pyrogram.types import (
 def start_pannel():
     buttons = [
         [
-            InlineKeyboardButton("Support", url="https://t.me/tuanmahkamah"),
+            InlineKeyboardButton("Support", url=f"https://t.me/tuanmahkamah"),
             InlineKeyboardButton("Updates", url=f"https://t.me/nathaellxx"),
         ],
     ]
