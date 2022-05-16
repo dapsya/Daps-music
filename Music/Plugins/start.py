@@ -42,7 +42,7 @@ pstart_markup = InlineKeyboardMarkup(
                 "÷ ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴏᴜᴘ ᴀɴᴅᴀ ÷", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘʀᴏᴛ", url=https://t.me/tuanmahkamah"),
+            InlineKeyboardButton("sᴜᴘᴘʀᴏᴛ", url=f"https://t.me/tuanmahkamah"),
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/nathaellxx"),
         ],
         [
