@@ -2,7 +2,7 @@
     "name": "KY-MUSIC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Hiroshi169/Hiroshi-Music",
+    "repository": "https://github.com/HiroUbot/Hiro-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "2034740657"
+            "value": "1821140802"
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
@@ -52,22 +52,22 @@
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url get from mongodb.cloud.com (don't use mine below !)",
             "required": true,
-            "value": "mongodb+srv://musichalal:musichalal@cluster0.q8cdv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            "value": "mongodb+srv://UserBot:UserBot@cluster0.gpxti.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         }, 
         "GROUP": {
             "description": "Masukin Username Group Anda Ga Pake @",
             "required": true,
-            "value": "+tk9b-vALbWU0ODY1"
+            "value": "hiroosupport"
         }, 
         "CHANNEL": {
             "description": "Masukin Username Channel Anda Ga Pake @",
             "required": true,
-            "value": "doremifasotoybetlo"
+            "value": "hiroshimabes"
         },
         "MUST_JOIN": {
             "description": "Masukin Username Channel Fsub Anda Pake @",
             "required": true,
-            "value": "@doremifasotoybetlo"
+            "value": "@hiroshimabes"
         }
     },
     "buildpacks": [
