@@ -1,12 +1,10 @@
-#### KY MUSIC 🎼
+#### HIRO MUSIC 🎼
 #### **Kalo Deploy Gausah Banyak Bacot Ngentot Tinggal Deploy Gw Entot Juga Lu Lama Lama**
 <p align="center">
-   <img src="https://telegra.ph/file/a09cb353b022e06643267.jpg">
-</p>
 
 ### DEPLOY TO HEROKU TOD!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hiroshi169/Hiroshi-Music")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HiroUbot/Hiro-Music")
 
 ### AMBIL STRING TOD
 Get pyrogram (p)  `SESSION` from here:
