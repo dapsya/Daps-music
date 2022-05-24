@@ -67,7 +67,7 @@
         "MUST_JOIN": {
             "description": "Masukin Username Channel Fsub Anda Pake @",
             "required": true,
-            "value": "@noteicall"
+            "value": "@noteical"
         }
     },
     "buildpacks": [
