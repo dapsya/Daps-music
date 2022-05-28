@@ -228,7 +228,7 @@ async def play(_, message: Message):
             else file_name,
         )
         title = "Selected Audio from Telegram"
-        link = "https://t.me/bombleebas"
+        link = "https://t.me/noteical"
         thumb = "cache/audioplay.jpg"
         videoid = "smex1"
     elif url:
@@ -723,7 +723,7 @@ async def popat(_,CallbackQuery):
         
 @app.on_message(filters.command("playplaylist"))
 async def play_playlist_cmd(_, message):
-    thumb ="cache/IMG_20211201_214925_953.jpg"
+    thumb ="cache/IMG_20220304_005450_670.jpg"
     user_id = message.from_user.id
     user_name = message.from_user.first_name
     buttons = playlist_markup(user_name, user_id)
