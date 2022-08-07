@@ -1,5 +1,5 @@
-#### HIRO MUSIC 🎼
-#### **Kalo Deploy Gausah Banyak Bacot Ngentot Tinggal Deploy Gw Entot Juga Lu Lama Lama**
+#### DAPS MUSIC 🎼
+#### **Kalo Deploy Gausah Banyak Bacot Ini Juga Repo Private Jadi Buat Elu Yang Mau Pake Bayar Babi**
 <p align="center">
 
 ### DEPLOY TO HEROKU TOD!
