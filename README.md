@@ -4,7 +4,7 @@
 
 ### DEPLOY TO HEROKU TOD!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HiroUbot/Hiro-Music")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dapsya/Daps-music")
 
 ### AMBIL STRING TOD
 Get pyrogram (p)  `SESSION` from here:
