@@ -1,8 +1,8 @@
 {
-    "name": "HIRO-MUSIC",
+    "name": "DAPS-MUSIC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/HiroUbot/Hiro-Music",
+    "repository": "https://github.com/dapsya/Daps-music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "1160545649"
+            "value": "1230443490"
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
@@ -57,17 +57,17 @@
         "GROUP": {
             "description": "Masukin Username Group Anda Ga Pake @",
             "required": true,
-            "value": "hiroosupport"
+            "value": "privatedap"
         }, 
         "CHANNEL": {
             "description": "Masukin Username Channel Anda Ga Pake @",
             "required": true,
-            "value": "my_nottess"
+            "value": "dapstoryy"
         },
         "MUST_JOIN": {
             "description": "Masukin Username Channel Fsub Anda Pake @",
             "required": true,
-            "value": "@noteical"
+            "value": "@dapstoryy"
         }
     },
     "buildpacks": [
