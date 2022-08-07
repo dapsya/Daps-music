@@ -59,7 +59,7 @@ async def ytdl(link):
 
 
 
-@app.on_message(command("vplay") & filters.group)
+@app.on_message(command("vdaps") & filters.group)
 async def vplay(c: Client, message: Message):
     replied = message.reply_to_message
     chat_id = message.chat.id
@@ -299,7 +299,7 @@ async def vplay(c: Client, message: Message):
                             await message.reply_text(f"Error: `{ep}`")
 
 
-@app.on_message(command("vplaylist") & filters.group)
+@app.on_message(command("vdapslist") & filters.group)
 async def playlist(client, m: Message):
     chat_id = m.chat.id
     if chat_id in QUEUE:
