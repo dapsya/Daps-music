@@ -51,3 +51,24 @@ If you donlt like to play in linked channel:
 
 ### Support & Updates 🎑
 <a href="https://t.me/Virtualllnihsad"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/bombleebas"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+## VPS Deployment 📡
+Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
+
+```console
+sudo apt update && apt upgrade -y
+sudo apt install git curl python3-pip ffmpeg -y
+pip3 install -U pip
+curl -sL https://deb.nodesource.com/setup_16.x | bash -
+sudo apt-get install -y nodejs
+npm i -g npm
+git clone https://github.com/dapsya/Daps-music # clone the repo.
+cd Daps-music
+pip3 install -U -r requirements.txt
+cp env .env # use vim to edit ENVs
+vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file).
+python3 -m Music # run the bot.
+```
+
+
+
