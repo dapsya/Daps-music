@@ -42,12 +42,12 @@ pstart_markup = InlineKeyboardMarkup(
                 "÷ ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴏᴜᴘ ᴀɴᴅᴀ ÷", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/privateical"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/noteical"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/privatedap"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/crossouy"),
         ],
         [
             InlineKeyboardButton( 
-                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/sadcall"),
+                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/itsdaps"),
             InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ", url="https://telegra.ph/Icall-05-28"),
         ],
     ]
